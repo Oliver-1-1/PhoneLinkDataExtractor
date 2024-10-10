@@ -1,6 +1,6 @@
 **Microsoft** has been pushing for its users to use its [Phone Link application](https://www.microsoft.com/en-us/windows/sync-across-your-devices?r=1)
 . It's an app that allows users to control their phone through their computer. They can access their contacts, pictures, and open apps. 
-One may think they store this information securely but this is not the case. It's stored in **AppData** in a database open for everyone to read.
+One may think they store this information securely but this is not the case. It's stored in **AppData** in a database that does not encrypt sensitive information.
 By just scrolling through the file I was able to extract: 
 - Phone numbers
 * Contact names
