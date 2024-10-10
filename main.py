@@ -1,5 +1,3 @@
-#C:\Users\olive\AppData\Local\Packages\Microsoft.YourPhone_8wekyb3d8bbwe\LocalCache\Indexed\4a932ba5-d3aa-43cc-bdd8-89db578e00ff\System\Database
-
 import os
 
 def find_your_phone_dir():
